@@ -1,0 +1,6 @@
+# ninja log v5
+8	511	7376359951378570	CMakeFiles/SimpleAlocation.dir/alocation.cpp.obj	28840a86ce51a9d3
+3	516	7376359951368599	CMakeFiles/SimpleAlocation.dir/main.cpp.obj	52100a605b2bf91c
+516	668	7376359952899130	SimpleAlocation.exe	2e7129950ecbce25
+6	469	7376360874344463	CMakeFiles/SimpleAlocation.dir/alocation.cpp.obj	28840a86ce51a9d3
+470	585	7376360875451335	SimpleAlocation.exe	2e7129950ecbce25
