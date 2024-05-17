@@ -10,12 +10,12 @@ int* allocateMemory(int n){
 }
 void inputValues(int* array, int n){
     for(int i = 0; i<n; i++){
-        printf("Value %d: ",i);
+        printf("Value %d: ",i+1);
         scanf("%d",&array[i]);
     }
 }
 void displayValues(int* array,int n){
-    printf("Values i memory:\n");
+    printf("Values in memory:\n");
     for(int i=0;i<n;i++){
         printf("%d",array[i]);
         printf("\n");
